@@ -14,4 +14,4 @@
 
 6, git clone git@bitbucket.org:ZhangDuo1/simgrid-duo.git
 
-7,
+7, 具体细节见截图
